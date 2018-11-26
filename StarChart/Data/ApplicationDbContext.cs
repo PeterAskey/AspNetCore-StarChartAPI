@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace StarChart.Data
+namespace StarChart.Data.Models
 {
     public class ApplicationDbContext : DbContext
     {

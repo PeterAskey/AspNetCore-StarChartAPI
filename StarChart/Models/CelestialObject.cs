@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StarChart
+namespace StarChart.Models
 {
     public class CelestialObject
     {

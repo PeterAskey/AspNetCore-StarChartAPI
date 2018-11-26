@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Moq;
 using Xunit;
 using Microsoft.EntityFrameworkCore;
-using StarChart.Data.Models;
+using StarChart.Data;
 
 namespace StarChartTests
 {

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using StarChart.Data.Models;
+using StarChart.Data;
 using Xunit;
 
 namespace StarChartTests
